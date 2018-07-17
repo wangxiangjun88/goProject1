@@ -1,3 +1,6 @@
 [submodule "configTest"]
 	path = configTest
 	url = https://github.com/wangxiangjun88/configTest.git
+[submodule "firstRepo"]
+	path = firstRepo
+	url = https://github.com/wangxiangjun88/firstRepo.git
